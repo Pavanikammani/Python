@@ -1,10 +1,6 @@
-print('hello world')
-
-print(2+2)
-
 
 i=1
-while i<=:
+while i<=4:
     print("pavani", end="")
     j=1
     while j<=4:
